@@ -1,0 +1,10 @@
+.AboutImg1{
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+}
+@media (max-width: 500px) {
+    .AboutImg2{
+        height: 24vh;
+    }
+}

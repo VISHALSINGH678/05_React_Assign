@@ -1,0 +1,32 @@
+.Card1{
+    display: flex;
+    margin: 5rem;
+    justify-content: center;
+    height: 40vh;
+}
+p{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.Cardp1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: green;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+@media (max-width: 1024px) {
+    .Card1 {
+        margin: 0rem;
+        padding: 0rem;
+        font-size: 0rem;
+        height: 17rem;
+    }
+}

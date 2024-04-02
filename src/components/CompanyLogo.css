@@ -1,0 +1,14 @@
+.CL1{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+@media (max-width: 500px){
+    .CL1{
+        display: flex;
+        justify-content: left;
+    }
+    .CL2{
+        height: 8.5vh;
+    }
+}

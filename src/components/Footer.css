@@ -1,0 +1,43 @@
+.FooterLogos{
+    display: flex;
+}
+.FooterImg1{
+    height: 35vh;
+    width: 20vw;
+}
+.FooterDiv1{
+    margin-left: 33rem;
+    margin-top: -16rem;
+}
+.FooterDiv2{
+    align-items: center;
+    justify-content: center;
+    height: 35vh;
+    width: 59vw;
+    margin-left: 21rem;
+    background-color: green;
+    color: white;
+}
+@media (max-width: 500px) {
+    .FooterDiv2 {
+        height: 15vh;
+        width: 60vw;
+        margin-left: 5.3rem;
+        background-color: green;
+        color: white;
+    }
+    .FooterImg1 {
+        height: 15vh;
+        width: 24vw;
+        margin-left: -9.2rem;
+    }
+
+    .FooterDiv1{
+        margin-left: 6.5rem;
+        font-size: 0.4rem;
+        margin-top: -7rem;
+    }
+    .Footerh1-1{
+        font-size: 0.7rem;
+    }
+}

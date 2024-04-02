@@ -1,0 +1,10 @@
+.Ten1{
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+}
+@media (max-width: 500px) {
+    .Ten2{
+        height: 22vh;
+    }
+}

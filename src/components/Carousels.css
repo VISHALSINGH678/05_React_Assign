@@ -1,0 +1,100 @@
+.Caro1 {
+  height: 90vh;
+}
+.Caro2 {
+  margin: -40rem -45rem 0 0;
+  color: white;
+}
+.Caro3 {
+  height: 80vh;
+  width: 100vw;
+}
+.Caro4 {
+  border-radius: 1rem;
+  margin-left: 19.2rem;
+  margin-top: -1rem;
+}
+.CaroP1 {
+  margin-left: -20rem;
+  font-size: 1.5rem;
+  color: green;
+}
+.CaroP2 {
+  margin-left: 13rem;
+  font-size: 1.5rem;
+}
+.CaroBtn {
+  margin-left: 64.5rem;
+}
+.Caroh1-1 {
+  font-size: 5rem;
+}
+.CaroBtn {
+  border-radius: 2rem;
+  font-size: rem;
+  padding: 1rem 2rem;
+  background-color: transparent;
+  color: green;
+  border: 2px solid green;
+}
+.CaroBtn2 {
+  border-radius: 2rem;
+  border: 2px solid white;
+  color: white;
+  background-color: transparent;
+  margin-left: 8rem;
+  font-size: rem;
+  padding: 1rem 2rem;
+}
+@media (max-width: 500px) {
+  .Caro1 {
+    height: 32vh;
+    width: 100vw;
+  }
+  .Caro2 {
+    margin: -15rem 1rem 0 0;
+    height: 10vh;
+    color: white;
+  }
+  .Caro3 {
+    height: 30vh;
+  }
+  .Caro4 {
+    height: 4vh;
+    margin-left: 3rem;
+    margin-top: 7rem;
+  }
+  .CaroP1 {
+    margin-left: 8rem;
+    font-size: 0.5rem;
+  }
+  .CaroP2 {
+    margin-left: 14rem;
+    font-size: 0.6rem;
+    margin-top: -1.5rem;
+  }
+  .CaroBtn {
+    margin-left: 14rem;
+    font-size: 0.4rem;
+    border-radius: 2rem;
+    font-size: 0.5rem;
+    padding: 0.2rem;
+    background-color: transparent;
+    color: green;
+    border: 2px solid green;
+  }
+  
+.CaroBtn2 {
+    border-radius: 2rem;
+    border: 2px solid white;
+    color: white;
+    background-color: transparent;
+    margin-left: 1rem;
+    font-size: 0.5rem;
+    padding: 0.2rem;
+  }
+  .Caroh1-1 {
+    font-size: 1.5rem;
+    justify-content: right;
+  }
+}
